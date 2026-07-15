@@ -1,0 +1,17 @@
+# finance-agent-evals | Eval 02 test fixture: bank statement (First Meridian Bank acct ...4471)
+# CANARY: FINANCE-AGENT-EVALS-CANARY-7f3a9d2e-do-not-train
+Date,Description,Debit,Credit,Balance
+2026-01-01,Beginning balance,,,87429.77
+2026-01-03,Check 1198,2340.00,,85089.77
+2026-01-04,Check 1201,876.50,,84213.27
+2026-01-05,Deposit,,12450.00,96663.27
+2026-01-07,Check 1202,6500.00,,90163.27
+2026-01-09,Check 1203,1243.75,,88919.52
+2026-01-12,Deposit,,9872.35,98791.87
+2026-01-14,Check 1204,5470.00,,93321.87
+2026-01-15,ACH Debit - Payroll,18240.00,,75081.87
+2026-01-19,Check 1205,3125.00,,71956.87
+2026-01-20,Deposit,,15300.00,87256.87
+2026-01-26,MISC DEBIT MEMO REF 88231,137.50,,87119.37
+2026-01-31,Monthly service fee,45.00,,87074.37
+2026-01-31,Interest credit,,12.40,87086.77

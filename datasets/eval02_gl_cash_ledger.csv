@@ -1,0 +1,16 @@
+# finance-agent-evals | Eval 02 test fixture: GL cash ledger (contains deliberate errors)
+# CANARY: FINANCE-AGENT-EVALS-CANARY-7f3a9d2e-do-not-train
+Date,Ref,Description,Debit,Credit,Balance
+2026-01-01,,Beginning balance - GL 1010 Operating Cash,,,84213.27
+2026-01-05,DEP-0105,Customer receipts batch,12450.00,,96663.27
+2026-01-06,CHK-1202,Rent - Lakeside Properties,,6500.00,90163.27
+2026-01-08,CHK-1203,Office supplies - Staplex Inc,,1243.75,88919.52
+2026-01-12,DEP-0112,Customer receipts batch,9872.35,,98791.87
+2026-01-13,CHK-1204,Vendor payment - Quill & Co,,4570.00,94221.87
+2026-01-15,ACH-PR01,Payroll - January 1st half,,18240.00,75981.87
+2026-01-16,CHK-1205,Vendor payment - Brightline Marketing,,3125.00,72856.87
+2026-01-17,CHK-1205,Vendor payment - Brightline Marketing,,3125.00,69731.87
+2026-01-20,DEP-0120,Customer receipts batch,15300.00,,85031.87
+2026-01-22,CHK-1206,Insurance premium - Meridian Assurance,,2860.00,82171.87
+2026-01-28,CHK-1207,Utilities - City Power & Water,,1418.22,80753.65
+2026-01-30,DEP-0130,Customer receipts batch,11215.60,,91969.25
